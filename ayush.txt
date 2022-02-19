@@ -1,5 +1,8 @@
-<<<<<<< HEAD
+
 hi
-=======
+
 addsdsdsdsdsd
->>>>>>> very-bad
+ very-bad
+
+hi
+very-bad
